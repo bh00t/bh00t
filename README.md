@@ -1,7 +1,7 @@
 <h1 align="center">Rishabh Tripathi</h1>
 
 <p align="center">
-  <b>I build software that thinks for itself.</b><br>
+  <b>I build solution that thinks for itself.</b><br>
   Data &amp; Integration Engineer (10+ yrs, AWS) now going all-in on <b>AI agents &amp; agentic systems</b>.
 </p>
 
