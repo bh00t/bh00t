@@ -29,7 +29,7 @@ Spent a decade making data move reliably at scale — ingestion, transformation,
 
 I build small, sharp tools — the kind that do one thing well and need zero setup. My pinned repos are always the current best of it, so:
 
-> ### 👉 [**Check my pinned repos**](https://github.com/bh00t) — that's where the good stuff lives.
+> ### 👉 [**Check my repos**](https://github.com/bh00t?tab=repositories) — that's where the good stuff lives.
 
 ## Toolbox
 
